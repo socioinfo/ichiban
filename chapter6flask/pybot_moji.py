@@ -1,6 +1,6 @@
 import numpy
-from sklearn.linear_model._logistic import LogisticRegression
-from sklearn import datasets
+# from sklearn.linear_model._logistic import LogisticRegression
+# from sklearn import datasets
 
 from PIL import (
     Image,

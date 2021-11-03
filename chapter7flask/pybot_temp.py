@@ -1,6 +1,6 @@
 import pandas
 import pickle
-from sklearn.linear_model import LinearRegression
+# from sklearn.linear_model import LinearRegression
 
 def temp_command(command):
     cmd, station = command.split()
